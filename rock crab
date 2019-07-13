@@ -1,0 +1,15 @@
+(life);10
+(totallife);10
+(slash);1
+(blunt);2
+(stab);1
+(fire);1
+(ice);1
+(lightning);1
+(dark);1
+(weakspot);joints;2
+eat;Before you get the rock crab into your mouth it pinches between your mouth and your cheek; None
+(bestiaryKnowledgeText); It resembles a crab, only it's shell is a rock that looks like any other on the ground.; It's eyes blah blah weakness i cant think of it right now.
+(tookdamage);The rock crab glares up at you;The rock crab's movements have slowed slightly;The rock crab limps around;dude the crabs almost sushi;He dead
+attack;Im too lazy to code this right now so just write it like 'swing sword at target';None
+(responseattack);100;The rock crab scuttles over to you and crushes your *;Leg;1
