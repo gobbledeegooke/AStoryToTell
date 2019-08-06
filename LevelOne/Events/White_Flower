@@ -1,0 +1,4 @@
+(intro);Looking around you see no animal life, which is not terribly uncommon, but it is the vegetation that catches your eye. Vines push through the stone, cracking it in the places where their assault takes place, with flowers that drip a clear and aromatic liquid from their soft grey leaves. /n You spot a particularily large flower full of a glistening liquid, do you drink it? (yes/no)
+yesResult;50;You bend down and take a few cautious sips. The liquid is sweet on your lips and you feel rejuvenated;changelife(playerstats[0],2)
+yesResult;100;You bend down and take a few cautious sips. The liquid is sweet on your lips but almost immediately after your stomach feels unsettled.;changelife(playerstats[0],-2)
+noResult;100;As tempting as a drink would be, you decide to play it safe.;None
