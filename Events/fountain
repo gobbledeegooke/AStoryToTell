@@ -1,0 +1,58 @@
+#Unique
+
+The center decor of this otherwise empty cave is a large fountain, seemingly carved directly from the hewn stone around it.
+It looks comparable to a fountain you would see in a park from the surface, with the center carving being of four elephants, trunks out, ready to spew water.
+While it isn't spewing water, the basin is nearly full with a dark substance that looks to fould to be water.
+Through the dark fluid, you notice a glint of something metallic at the bottom of the pool, do you reach for it?
+
+{*If yes*
+
+You shove you hand into the fluid and imideiatly feel pain shoot through your limb.
+
+*If constitution > 3*
+
+Fighting through the burning pain for a few seconds longer, you feel your fingers grab something in the opaque fluid, and your rip your arm out of the substance.
+Ignoring your arm, which burns as if it was on fire, you see a dagger clasped in your hand.
+#Player gains "alchemical dagger" which should be named *black acid dagger* please and thank you
+#This should do extra damage against creatures of alchemy *slimes, flailsnails, etc* but not of regular monstosities *flowers, giant animals, etc*
+Seeing your arm, for the first time makes it clear that the black substance, which felt like acid, was actually an acid which has burned away the majority of your sleeve and arm hair
+#Anywhere from 1/4 to 1/2 the player's health in damage please
+
+*If constitution <= 3*
+
+Feeling the pain, your arm shoots back in reaction.
+Looking at it, your see that the skin has been seared and the hairs have been burned of.
+The substance must have been acidic, and you can only image the damage your arm would have sustained without your reflexes kicking in
+# Maybe 1/10 of the player's health or something
+} !! Read identifying the substance
+
+*If no*
+
+The caves have proven dangerous enough, so you let the glint be.
+
+The fluid in the pool might prove useful, would you liek to try to identify it?
+
+{*(If yes and intellignce >= 2) or if player has *black acid dagger*
+
+The fluid in the pool is clearly an acid, but most likly one not strong enough to eat through your canteen. Would like to collect some?
+
+*If yes and dexterity >= 2
+
+You successfully collect a small flask of acid
+#This should prevent the gathering of water
+
+*Else*
+#50/50 chance
+
+#Chance One
+While you do spill some acid on yourself, you manage to collect a fair amount in your canteen
+#1/8 of player health or something
+
+#Chance Two
+After several failed attempts, you abandon the project as fruitless
+#1/4 of player health or something
+}
+
+*Else*
+
+it could be molten gold, but it still wouldn't be more valuable than water. You move on.
