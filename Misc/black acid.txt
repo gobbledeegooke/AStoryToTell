@@ -1,2 +1,0 @@
-look;Black acid you got from the fountain on the first layer;None
-drink;Not the most intelligent thing youve done, but who can resist the forbidden slushie?;changelife(playerstats[0],playerstats[1],-9999999)
