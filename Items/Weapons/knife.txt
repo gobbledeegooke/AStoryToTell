@@ -1,0 +1,5 @@
+look;A rusty, single edged knife. It's about as long as your forearm, more of a tool than a weapon ; None
+use;You swing the knife; attack("knife",intext,playerstats)
+swing;You swing the knife; attack("knife",intext,playerstats)
+eat;In your effort to eat your knife, you cut the inside of your cheek before giving up and putting it back in your pocket. ; changelife(playerstats[0],playerstats[1],-1)
+(damage);(slash);1

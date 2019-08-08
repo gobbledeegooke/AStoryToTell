@@ -1,0 +1,4 @@
+look;#####item description here##### ; None
+use;You slash the acid dagger; attack("acid dagger",intext,playerstats)
+swing;You slash the acid dagger ; attack("acid dagger",intext,playerstats)
+(damage);(alchemical);2
