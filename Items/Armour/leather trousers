@@ -1,0 +1,4 @@
+equip;You take off your pants and slip on the leather trousers; equipArmour('leg',0.95)
+use;uhhh how so; None
+eat;You attempt to chew through the leather before deciding it's not worth your time; None
+look;A ratted pair of leather trousers not unlike the ones you wore as a child;None
