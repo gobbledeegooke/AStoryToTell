@@ -1,0 +1,3 @@
+equip;You equip the leather bracelets; equipArmour('arm',0.95)
+eat;You attempt to chew through the leather before deciding it's not worth your time; None
+look;A ratted pair of leather bracelets;None
