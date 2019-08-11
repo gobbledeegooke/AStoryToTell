@@ -1,0 +1,3 @@
+equip;You equip the shirt; equipArmour('chest',0.95)
+eat;You attempt to chew through the leather before deciding it's not worth your time; None
+look;A shirt its a shirt;None
