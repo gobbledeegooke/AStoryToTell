@@ -1,0 +1,23 @@
+Moss grows thick over this section of rock and you couldn't help but notice it looks too similar to a bed for your liking.
+Shaking of a bit of your exhaustion, you realise this would be an ideal place to rest for a while.
+Do you rest?
+
+*If yes*
+
+{
+% chance of healing
+A chance to level stats (id you are doing that)
+}
+
+{
+% chance of random monster encounter
+I think there should be a higher chance of the monster dropping loot for these fights (sinc ethe player would have to dight when they wanted to rest)
+}
+
+
+*If no*
+
+Shaking your head gave you a *second* wind, so you press on.
+
+# I think it would be funny to increase the *second* wind to third, forth, fifth, etc. as the player progresses and takes less adn less rests
+# It also introduces a challenge element
