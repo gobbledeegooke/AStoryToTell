@@ -1,0 +1,9 @@
+(intro);You see a piece of parchment on the ground with writing scratched across it. Do you read it?
+yesResult;100;It reads: 
+    To my dearest plum, 
+     Our time together was the best of my life and I would never trade it for anything, 
+     but I look at myself now and the hideousness of my features 
+     and the things I did leave a scar that no amount of alchemy can heal. 
+     I miss you, and I wish I was able to help, but the way you looked at yourself afterwards is too much. 
+    See you soon
+noResult;100;Must be nothing important;None
