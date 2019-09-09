@@ -25,8 +25,10 @@ Deciding to inspect the pool, you notice several carved runes around the edge of
 
 After a brief dive, you notice a plaque at the bottom of the pool. It takes a few dive before you can read the full sign.
 "Aquaosu evertoto prolepstam neglegentia"
+*Intelligence >= 4*
 Your gut make you feel as if this says something about "safely removing water", or perhaps "failsafe against water". It is hard to tell.
-
+*else*
+Even thinking the words feels like gibberish. You file them away in the back of your mind.
 
 *If "Look Walls"*
 
