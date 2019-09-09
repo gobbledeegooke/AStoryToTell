@@ -1,3 +1,20 @@
 Entering the chamber, you are greeted by a sea of small black beads.
 
-#to be continued
+The chamber itself is easily the largest subterranean space you have ever seen. Disappearing into darkness to the left, right, and even straight up, you focus your attention to the sea of beads before you.
+
+Each bead was jet black, its surface slightly reflective, and no bigger than a grape.
+Not seeing an easy way across, you assess you options.
+
+# This is suppossed to be confusing and hard. There should maybe be text on how to ignore this challenge, becuase there isn't a good way to do it.
+
+*If "look at beads"*
+
+Inspecting the beads more closly, you realise that they seem to have two details you missed upon first glance.
+
+One: They are each inscribed with a rune. 
+*If int >= 6*
+The rune you take to say "closterum", which feels like prison, barrier, or contain.
+*else*
+However, the rune is gibberish, and you're not sure what to make of it.
+
+#TBC
