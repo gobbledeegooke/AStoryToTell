@@ -17,4 +17,26 @@ The rune you take to say "closterum", which feels like prison, barrier, or conta
 *else*
 However, the rune is gibberish, and you're not sure what to make of it.
 
-#TBC
+*Go left or right*
+
+It is a little more than a kilometer wlk before you hit a rounded corner that wraps into the sea of beads.
+It seems as if there isn't a way to continue other than forward.
+
+*If: swim in beads*
+
+Sinking into the beads, you feel yourself begin to sink immediatly.
+Deciding to let go of the rock you had been holding onto, you attempt to stay afloat in the beads as if you were treading water.
+
+Barely a second went by before you realised that this would get you killed.
+The beads offered little to no tension for you to stay afloat with.
+You immediatly pull yourself back onto the safety of the rocks.
+
+*If: inspect walls*
+
+  *If int >= 5*
+  
+  Along the walls there appears to be runes that you believe to say "vesctio", which could mean a way through, or safely travel.
+  
+  *else*
+  
+  There  is clearly writing on the walls, but it is unintelligble.
